@@ -8,20 +8,20 @@ Content The datasets consists of several medical predictor variables and one tar
 
 Dependencies include python libraries like
 
-sklearn
-matplotlib
-pandas
-seaborn
+ sklearn
+ matplotlib
+ pandas
+ seaborn
 
 Classification models used
 
-Decision Trees
-Ramdom forest
-Logistic Regression
-SVM
-KNN
-Niave bayes
-Logistic Regression
+ Decision Trees
+ Ramdom forest
+ Logistic Regression
+ SVM
+ KNN
+ Niave bayes
+ Logistic Regression
 
 
 Data source: Kaggle
