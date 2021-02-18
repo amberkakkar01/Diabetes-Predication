@@ -27,6 +27,9 @@ Niave bayes
 Logistic Regression
 Ensemble Modeling
 ```
+
+PS: Please do not forget to drop a star if you like it!
+
 Data source: Kaggle
 
 <img src="https://lh3.googleusercontent.com/proxy/wwj3vXW3Pv2DDVRCjY4D1H6eGccQdJJeMzwsCHIKVFTHl5mIwpI7cnE-g9GX3rDFEc-j-66q8Jpfhb1Yk1sHK56B4PkbqmYxmxn5a5Cv_r90i_pXMjaibtb7hKmk">
